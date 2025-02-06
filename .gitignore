@@ -1,0 +1,3 @@
+myenv/
+*.code-workspace
+.python-version
